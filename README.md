@@ -49,7 +49,7 @@ Tabulation:1
  |:-----:|:-----:|:------------:|:-------:|
  |1|ON|ON|ON|
  |2|ON|OFF|OFF|
- |3||OFF|ON|OFF|
+ |3|OFF|ON|OFF|
  |4|OFF|OFF|ON|
 
 	
