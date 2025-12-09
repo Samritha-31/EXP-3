@@ -44,7 +44,6 @@ Direct connection: CIRCUIT DIAGRAM:
 <img width="982" height="524" alt="BEEE EX3-1" src="https://github.com/user-attachments/assets/0ec369b6-cb05-427e-a4a5-3bd9bcebdf4e" />
 
 Tabulation:1
-
 |NODE|S1|S2|LAMP|
  |:-----:|:-----:|:------------:|:-------:|
  |1|ON|ON|ON|
@@ -59,7 +58,6 @@ Cross connection: CIRCUIT DIAGRAM:
 
 
 Tabulation:2
-
 |NODE|S1|S2|LAMP|
  |:-----:|:-----:|:------------:|:-------:|
  |1|ON|ON|OFF|
